@@ -35,11 +35,6 @@ Vowel phoneme classifier using k-NN on formant features extracted from ABI-1 Cor
 - scikit-learn (for train_test_split, k-NN, metrics)
 - Ocenaudio (for feature extraction)
 
----
-
-## 🤖 AI Usage
-
-AI tools were only used for syntax & code debugging, not core work.
 
 ---
 
